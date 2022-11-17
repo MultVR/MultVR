@@ -1,3 +1,6 @@
+![alt text](img/validators.png "Validatorr's team")
+
+
 - 👋 Hi, I’m @MultVR
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
