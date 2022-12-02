@@ -1,4 +1,4 @@
-![alt text](img/multvr-banner.png "Validatorr's team")
+![alt text](img/multvr-banner.jpg "Validatorr's team")
 
 
 - 👋 Hi, I’m @MultVR
